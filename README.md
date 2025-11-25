@@ -1,7 +1,12 @@
+# SilentSDDM - Rhyred's Custom Fork
+
+**This is a customized fork of [uiriansan/SilentSDDM](https://github.com/uiriansan/SilentSDDM) optimized for Garuda Linux.**
+
 > [!WARNING]
 > This theme requires **SDDM v0.21.0 or newer**. Make sure your distro provides the correct version before installing.
 
-https://github.com/user-attachments/assets/dd63c526-34d6-45ec-8a7d-5c29bf08c702
+> [!NOTE]
+> This is a personal modification. For the original theme, visit [github.com/uiriansan/SilentSDDM](https://github.com/uiriansan/SilentSDDM)
 
 # Presets
 

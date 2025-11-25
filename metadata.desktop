@@ -1,11 +1,13 @@
-; https://github.com/uiriansan/SilentSDDM
+; https://github.com/Rhyred/SilentSDDM
+; Forked and customized version for Garuda Linux
+; Original: https://github.com/uiriansan/SilentSDDM
 
 [SddmGreeterTheme]
-Name=Silent
+Name=Silent (Rhyred Custom)
 Type=sddm-theme
-Description=A very customizable SDDM theme that actually looks good.
+Description=A very customizable SDDM theme optimized for Garuda Linux.
 License=GPL-3.0-or-later
-Version=1.3.0
+Version=1.3.0-rhyred
 Theme-Id=silent
 Theme-API=2.0
 MainScript=Main.qml

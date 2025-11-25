@@ -40,7 +40,7 @@ in
   mkDerivation (final: {
     inherit propagatedBuildInputs;
 
-    pname = "silent";
+    pname = "silent-rhyred";
     version = "${substring 0 8 gitRev}";
     src = cleanSource ./.;
 

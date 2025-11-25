@@ -1,5 +1,5 @@
 {
-  description = "A very customizable SDDM theme that actually looks good";
+  description = "A very customizable SDDM theme - Rhyred's Fork for Garuda Linux";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
